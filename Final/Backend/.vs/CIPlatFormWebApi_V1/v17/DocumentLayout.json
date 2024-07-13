@@ -1,0 +1,519 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\business_logic_layer\\missionapp\\missionapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\missionapp\\missionapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\ciplatformwebapi_v1\\controllers\\missionapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\missionapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\ciplatformwebapi_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\data_logic_layer\\migrations\\20240713161657_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240713161657_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\data_logic_layer\\data_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\data_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\data_logic_layer\\missionskillentity\\missionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\missionskillentity\\missionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\business_logic_layer\\missionskill\\missionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\missionskill\\missionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\ciplatformwebapi_v1\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\business_logic_layer\\mission\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\mission\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\business_logic_layer\\missiontheme\\missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\missiontheme\\missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\ciplatformwebapi_v1\\controllers\\missionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\missionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\data_logic_layer\\missionthemeentity\\missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\missionthemeentity\\missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\business_logic_layer\\missiontheme\\imissiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\missiontheme\\imissiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\ciplatformwebapi_v1\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\business_logic_layer\\baladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\baladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\data_logic_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\ciplatformwebapi_v1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\data_logic_layer\\userandloginentity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\userandloginentity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\data_logic_layer\\userandloginentity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\userandloginentity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\business_logic_layer\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\ciplatformwebapi_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\data_logic_layer\\userandloginentity\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\userandloginentity\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\business_logic_layer\\missionskill\\imissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\missionskill\\imissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\business_logic_layer\\business_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\business_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\ciplatformwebapi_v1\\ciplatformwebapi_v1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\ciplatformwebapi_v1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\users\\asus\\desktop\\tatvasoft\\avengersassembel\\ciplatformwebapi_v1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\TatvaSoft\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\TatvaSoft\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\ResponseResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\TatvaSoft\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MissionSkill.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\MissionSkill\\MissionSkill.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\MissionSkill\\MissionSkill.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\MissionSkill\\MissionSkill.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\MissionSkill\\MissionSkill.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAMwDMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:40:50.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\UserAndLoginEntity\\User.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\UserAndLoginEntity\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\UserAndLoginEntity\\User.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\UserAndLoginEntity\\User.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA9wDgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:40:55.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BALLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\BALLogin.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\BALLogin.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALLogin.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAEwA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:16:05.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MissionSkill.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\MissionSkillEntity\\MissionSkill.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\MissionSkillEntity\\MissionSkill.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\MissionSkillEntity\\MissionSkill.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\MissionSkillEntity\\MissionSkill.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:34:15.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Program.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Program.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAC8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:41:53.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MissionApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Controllers\\MissionApplicationController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\MissionApplicationController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Controllers\\MissionApplicationController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\MissionApplicationController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAWwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:07:55.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissionApp.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\MissionApp\\MissionApp.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\MissionApp\\MissionApp.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\MissionApp\\MissionApp.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\MissionApp\\MissionApp.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAMwDYAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:16:56.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMissionTheme.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\MissionTheme\\IMissionTheme.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\MissionTheme\\IMissionTheme.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\MissionTheme\\IMissionTheme.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\MissionTheme\\IMissionTheme.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:03:36.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240713161657_initial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\Migrations\\20240713161657_initial.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240713161657_initial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\Migrations\\20240713161657_initial.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240713161657_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:16:57.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data_Logic_Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\Data_Logic_Layer.csproj",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Data_Logic_Layer.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\Data_Logic_Layer.csproj",
+              "RelativeToolTip": "Data_Logic_Layer\\Data_Logic_Layer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T05:53:18.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MissionSkillController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Controllers\\MissionSkillController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\MissionSkillController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Controllers\\MissionSkillController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\MissionSkillController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowF0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:00:46.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MissionTheme.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\MissionThemeEntity\\MissionTheme.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\MissionThemeEntity\\MissionTheme.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\MissionThemeEntity\\MissionTheme.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\MissionThemeEntity\\MissionTheme.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:04:24.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\Mission\\Mission.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\Mission\\Mission.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\Mission\\Mission.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\Mission\\Mission.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwG4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:49:05.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\AdminUserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\AdminUserController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwF4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:40:20.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MissionThemeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Controllers\\MissionThemeController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\MissionThemeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Controllers\\MissionThemeController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\MissionThemeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAwwBoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:24:11.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MissionTheme.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\MissionTheme\\MissionTheme.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\MissionTheme\\MissionTheme.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\MissionTheme\\MissionTheme.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\MissionTheme\\MissionTheme.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwBoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:06:04.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\UserAndLoginEntity\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\UserAndLoginEntity\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\UserAndLoginEntity\\LoginRequest.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\UserAndLoginEntity\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:59:28.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BALAdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\BALAdminUser.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALAdminUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\BALAdminUser.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALAdminUser.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:44:12.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DALAdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\DALAdminUser.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALAdminUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\DALAdminUser.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALAdminUser.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAYwKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:45:37.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\UserAndLoginEntity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\UserAndLoginEntity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\UserAndLoginEntity\\BaseEntity.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\UserAndLoginEntity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:23:05.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAawA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:11:30.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DALLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALLogin.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAlwBcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:21:21.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\appsettings.json",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\appsettings.json",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T05:41:23.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\JWTService\\JwtService.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\JWTService\\JwtService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\JWTService\\JwtService.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\JWTService\\JwtService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADgvxsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:39:37.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IMissionSkill.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\MissionSkill\\IMissionSkill.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\MissionSkill\\IMissionSkill.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\MissionSkill\\IMissionSkill.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\MissionSkill\\IMissionSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:37:02.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Business_Logic_Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\Business_Logic_Layer.csproj",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\Business_Logic_Layer.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\Business_Logic_Layer\\Business_Logic_Layer.csproj",
+              "RelativeToolTip": "Business_Logic_Layer\\Business_Logic_Layer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T05:03:17.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\BaseEntity.cs",
+              "RelativeToolTip": "..\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\BaseEntity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:50:35.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "..\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\ResponseResult.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\ResponseResult.cs",
+              "RelativeToolTip": "..\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\ResponseResult.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:09:18.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\AppDbContext.cs",
+              "RelativeToolTip": "..\\git to upload\\day6\\Data_Logic_Layer\\UserAndLogin\\AppDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:56:26.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CIPlatFormWebApi_V1.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAABBwA0AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T06:36:36.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TatvaSoft\\AvengersAssembel\\CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T05:42:21.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
