@@ -1,2 +1,2 @@
-All data of each day of Internship is on Branch "Maste".
+All data of Internship is on Branch "Master".
 Please Resfer to "Master" Branch
